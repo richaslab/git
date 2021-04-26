@@ -41,3 +41,5 @@ echo notes.txt >> .gitignore
 
 All files to be ignored by Git
 cat .gitignore 
+
+https://..../..../[name].git  - Connection string
